@@ -14,7 +14,6 @@ public class array {
             } catch (Exception e) {
                 System.out.println("escribir un numero entero ");
                 leer.next(); 
-                x--; 
             }
         }
         leer.close();
